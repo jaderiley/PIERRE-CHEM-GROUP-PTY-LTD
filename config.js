@@ -213,6 +213,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Tell us about the pest problem.",
     contactLead:  "Let us know what you are seeing and we will advise on treatment options and pricing.",
-    contactPlaceholder: "e.g. cockroaches in kitchen, rats in roof, ants throughout house"
+    contactPlaceholder: "e.g. cockroaches in kitchen, rats in roof, ants throughout house",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Pests taking over <em>your home?</em>",
+    ctaBannerSub:   "One call and a treatment plan starts today."
   }
 };
